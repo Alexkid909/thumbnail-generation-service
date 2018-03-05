@@ -1,0 +1,22 @@
+{
+  "name": "thumbnail-generation-service",
+  "version": "0.0.1",
+  "description": "Service to generate thumbnails for images uploaded to Mercury CMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexkid909/thumbnail-generation-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexkid909/thumbnail-generation-service/issues"
+  },
+  "homepage": "https://github.com/Alexkid909/thumbnail-generation-service#readme",
+  "dependencies": {
+    "sharp": "^0.20.0"
+  }
+}
